@@ -7,9 +7,6 @@ Welcome! I'm passionate about cybersecurity and constantly looking for opportuni
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
