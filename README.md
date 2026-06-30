@@ -4,8 +4,8 @@ Welcome! I'm passionate about cybersecurity and constantly looking for opportuni
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
 
 <hr/>
